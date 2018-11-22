@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_sigaa"
+            android:icon="@drawable/ic_sigaa_black_24dp"
+            android:title="SIGAA - UFC" />
+        <item
+            android:id="@+id/nav_saldoRu"
+            android:icon="@drawable/ic_saldo3_black_24dp"
+            android:title="Saldo Cartão RU" />
+        <item
+            android:id="@+id/nav_biblioteca"
+            android:icon="@drawable/ic_biblioteca_black_24dp"
+            android:title="Biblioteca UFC" />
+        <item
+            android:id="@+id/nav_noticias"
+            android:icon="@drawable/ic_noticias_black_24dp"
+            android:title="Notícias - UFC Sobral" />
+        <item
+            android:id="@+id/nav_cardapio"
+            android:icon="@drawable/ic_cardapio_black_24dp"
+            android:title="Cardápio - UFC Sobral" />
+        <item
+            android:id="@+id/nav_provas"
+            android:icon="@drawable/ic_provas2_black_24dp"
+            android:title="Provas anteriores" />
+        <!---
+               <item
+                   android:id="@+id/nav_diagrama"
+                   android:icon="@drawable/ic_diagrama_black_24dp"
+                   android:title="Disciplinas Eng. Comp" />
+               <item
+                   android:id="@+id/nav_artigos"
+                   android:icon="@drawable/ic_artigos_black_24dp"
+                   android:title="Artigos - UFC" />
+       -->
+           </group>
+
+           <item android:title="Informações">
+               <menu>
+                   <item
+                       android:id="@+id/nav_compartilharApp"
+                       android:icon="@drawable/ic_menu_share"
+                       android:title="Compartilhar App" />
+                   <item
+                       android:id="@+id/nav_enviarProvas"
+                       android:icon="@drawable/ic_menu_send"
+                       android:title="Enviar provas" />
+                   <item
+                       android:id="@+id/nav_sobre"
+                       android:icon="@drawable/ic_sobre_black_24dp"
+                       android:title="Sobre" />
+               </menu>
+           </item>
+
+       </menu>
