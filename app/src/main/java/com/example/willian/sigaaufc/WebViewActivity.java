@@ -36,6 +36,8 @@ public class WebViewActivity extends AppCompatActivity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_webview);
 
+        getSupportActionBar().setElevation(0); //Remove a sobra da actionbar
+
         frameLayout = findViewById(R.id.frameLayout);
         progressBar = findViewById(R.id.progressBar);
 
@@ -43,7 +45,6 @@ public class WebViewActivity extends AppCompatActivity{
         getSupportActionBar().setDisplayHomeAsUpEnabled(true); //Mostrar o botão
         getSupportActionBar().setHomeButtonEnabled(true);      //Ativar o botão
         getSupportActionBar().setTitle(getTitulo());//Titulo para ser exibido na sua Action Bar em frente à seta
-
 
 
 
@@ -74,7 +75,6 @@ public class WebViewActivity extends AppCompatActivity{
 
 
 
-
         //Barra de progresso
         webview.setWebChromeClient(new WebChromeClient() {
 
@@ -86,9 +86,11 @@ public class WebViewActivity extends AppCompatActivity{
                 if (newProgress == 100) {
 
                     frameLayout.setVisibility(View.GONE);
+                    getSupportActionBar().setElevation(10); //Remove a sobra da actionbar
 
                 } else {
                     progressBar.setVisibility(View.VISIBLE);
+                    getSupportActionBar().setElevation(0); //Remove a sobra da actionbar
                 }
             }
 

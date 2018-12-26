@@ -33,8 +33,11 @@ public class MainActivity extends AppCompatActivity
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                /*
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
+                        */
+                enviarProvas();
             }
         });
 
@@ -122,33 +125,7 @@ public class MainActivity extends AppCompatActivity
             abrirWebView(url, titulo);
 
         }else if(id == R.id.nav_enviarProvas){
-
-            String[] destinatario = {"willian.s.praciano@outlook.com"};
-
-            Intent i = new Intent(getIntent().ACTION_SENDTO);
-            i.setData(Uri.parse("mailto:"));
-            //i.setType("text/plain");
-            i.putExtra(getIntent().EXTRA_EMAIL, destinatario);
-            i.putExtra(getIntent().EXTRA_SUBJECT, "PROVAS ANTERIORES - SIGAM");
-            i.putExtra(getIntent().EXTRA_TEXT,
-                    "Por favor, preencha os campos abaixo e anexe o(s) arquivo(s) da(s) prova(s) que você deseja enviar." + "\n\n" +
-                    "Curso: " + "\n" +
-                    "Disciplina: " + "\n" +
-                    "Professor: "  + "\n" +
-                    "Semestre (Ex.: 2018.2): "
-                    );
-
-
-            try {
-                startActivity(Intent.createChooser(i, "Escolha um cliente de email"));
-                finish();
-                Log.i("Finished sending email.", "");
-            }
-            catch (android.content.ActivityNotFoundException ex) {
-                Toast.makeText(MainActivity.this, "Não há clientes de email instalados!", Toast.LENGTH_SHORT).show();
-            }
-
-
+            enviarProvas();
 
         } else if(id == R.id.nav_compartilharApp){
 
@@ -259,8 +236,31 @@ public class MainActivity extends AppCompatActivity
         abrirWebView(url, titulo);
     }
 
-    public void enviarProvas(View view){
+    public void enviarProvas(){
+        String[] destinatario = {"willian.s.praciano@outlook.com"};
 
+        Intent i = new Intent(getIntent().ACTION_SENDTO);
+        i.setData(Uri.parse("mailto:"));
+        //i.setType("text/plain");
+        i.putExtra(getIntent().EXTRA_EMAIL, destinatario);
+        i.putExtra(getIntent().EXTRA_SUBJECT, "PROVAS ANTERIORES - SIGAM");
+        i.putExtra(getIntent().EXTRA_TEXT,
+                "Por favor, preencha os campos abaixo e anexe o(s) arquivo(s) da(s) prova(s) que você deseja enviar." + "\n\n" +
+                        "Curso: " + "\n" +
+                        "Disciplina: " + "\n" +
+                        "Professor: "  + "\n" +
+                        "Semestre (Ex.: 2018.2): "
+        );
+
+
+        try {
+            startActivity(Intent.createChooser(i, "Enviar as Provas pelo:"));
+            finish();
+            Log.i("Finished sending email.", "");
+        }
+        catch (android.content.ActivityNotFoundException ex) {
+            Toast.makeText(MainActivity.this, "Não há clientes de email instalados!", Toast.LENGTH_SHORT).show();
+        }
     }
 
 }
