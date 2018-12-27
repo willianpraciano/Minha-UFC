@@ -33,11 +33,15 @@ public class MainActivity extends AppCompatActivity
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                /*
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-                        */
-                enviarProvas();
+
+                Snackbar.make(view, "Enviar provas anteriores?", Snackbar.LENGTH_LONG)
+                        .setAction("Confirmar", new View.OnClickListener() {
+                            @Override
+                            public void onClick(View v) {
+                                enviarProvas();
+                            }
+                        })
+                        .show();
             }
         });
 
@@ -254,7 +258,7 @@ public class MainActivity extends AppCompatActivity
 
 
         try {
-            startActivity(Intent.createChooser(i, "Enviar as Provas pelo:"));
+            startActivity(Intent.createChooser(i, "Enviar as Provas pelo"));
             finish();
             Log.i("Finished sending email.", "");
         }
