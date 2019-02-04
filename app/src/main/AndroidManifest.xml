@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.willian.sigaaufc">
+    package="praciano.willian.minhaufc">
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -13,7 +13,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name="praciano.willian.minhaufc.MainActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar">
@@ -23,10 +23,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".WebViewActivity" />
-        <activity android:name=".SobreActivity" />
-        <activity android:name=".PerfilActivity" />
-        <activity android:name=".SegundaChamdaActivity"></activity>
+        <activity android:name="praciano.willian.minhaufc.WebViewActivity" />
+        <activity android:name="praciano.willian.minhaufc.SobreActivity" />
+        <activity android:name="praciano.willian.minhaufc.PerfilActivity" />
+        <activity android:name="praciano.willian.minhaufc.SegundaChamdaActivity"></activity>
     </application>
 
 </manifest>

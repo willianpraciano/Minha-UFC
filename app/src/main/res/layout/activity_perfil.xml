@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fillViewport="true"
-    tools:context="com.example.willian.sigaaufc.PerfilActivity"
+    tools:context="com.example.willian.sigaaufc.praciano.example.willian.sigaaufc.PerfilActivity"
     tools:layout_editor_absoluteY="81dp">
 
     <LinearLayout

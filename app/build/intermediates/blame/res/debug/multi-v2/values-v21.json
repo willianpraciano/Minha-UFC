@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9abc95a859a8c5f5afc66618070e9373/res/values-v21/values-v21.xml",
@@ -80,7 +80,7 @@
                     }
                 },
                 {
-                    "source": "/home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/res/values-v21/styles.xml",
+                    "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/values-v21/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

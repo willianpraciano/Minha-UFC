@@ -1,4 +1,4 @@
-#Mon Feb 04 18:33:40 BRT 2019
-base.0=/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/transforms/dexMerger/debug/19
+#Mon Feb 04 19:59:59 BRT 2019
+base.0=/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/transforms/dexMerger/debug/19
 path.0=classes.dex
 renamed.0=classes.dex

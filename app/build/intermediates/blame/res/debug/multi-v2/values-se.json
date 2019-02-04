@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-se/values-se.xml",
+            "outputFile": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-se/values-se.xml",
             "map": [
                 {
                     "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.5.aar/b87b86d303dbb392f2bfa13c3461fec6/res/values-se/values-se.xml",

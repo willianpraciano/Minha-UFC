@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/values-sw600dp-v13/values-sw600dp-v13.xml",
