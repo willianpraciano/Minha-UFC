@@ -1,6 +1,7 @@
 package com.example.willian.sigaaufc;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.net.Uri;
 import android.os.Bundle;
@@ -15,12 +16,44 @@ import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.TextView;
 import android.widget.Toast;
+
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
+
+    private TextView textNome, textCurso, textMatricula;
+
+    private static String sigaaUrl = "https://si3.ufc.br/sigaa/verTelaLogin.do";
+    private static String bibliotecaUrl = "https://pergamum.ufc.br/pergamum/mobile/index.php";
+    private static String saldoUrl ="https://si3.ufc.br/public/iniciarConsultaSaldo.do";
+    private static String provasUrl = "https://drive.google.com/folderview?id=1mLtT2NOUWdsRx4oCT8DaKApznaQG0mQ6";
+    private static String[] cardapioUrl = {
+            "http://www.ufc.br/restaurante/cardapio/1-restaurante-universitario-de-fortaleza", //BENFICA
+            "http://crateus.ufc.br/cardapio-semanal/", //CRATEUS
+            "http://www.ufc.br/restaurante/cardapio/1-restaurante-universitario-de-fortaleza", //LABOMAR
+            "http://www.ufc.br/restaurante/cardapio/1-restaurante-universitario-de-fortaleza", //PICI
+            "http://www.ufc.br/restaurante/cardapio/1-restaurante-universitario-de-fortaleza", //PORANGABUÇU
+            "https://www.quixada.ufc.br/refeitorio-universitario/", // QUIXADÁ
+            "http://www.ufc.br/restaurante/cardapio/2-restaurante-universitario-do-interior", // RUSSAS
+            "http://www.sobral.ufc.br/ru/cardapio/" //SOBRAL
+    };
+    private static String[] noticiasUrl = {
+            "http://www.ufc.br/noticias", //BENFICA
+            "http://crateus.ufc.br/", //CRATEUS
+            "http://www.labomar.ufc.br/", //LABOMAR
+            "http://www.ufc.br/noticias", //PICI
+            "http://www.medicina.ufc.br/noticias/", //PORANGABUÇU
+            "https://www.quixada.ufc.br/", // QUIXADÁ
+            "http://www.campusrussas.ufc.br/", // RUSSAS
+            "http://www.sobral.ufc.br/" //SOBRAL
+    };
+
+
+    private static final String ARQUIVO_PREFERENCIAS = "ArquivoPreferencias";
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -29,6 +62,14 @@ public class MainActivity extends AppCompatActivity
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+        //Se o usuário estiver abrindo o app pela primeira vez então a StarActivity será iniciada
+        SharedPreferences preferences = getSharedPreferences(ARQUIVO_PREFERENCIAS, 0);
+        if (!preferences.contains("campus") || preferences.getString("campus", "").equals("")){
+            startActivity( new Intent(getApplicationContext(), PerfilActivity.class));
+        }
+
+
+        //Configurações do FloatingActionButton
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -41,6 +82,7 @@ public class MainActivity extends AppCompatActivity
                                 enviarProvas();
                             }
                         })
+                        .setActionTextColor(getResources().getColor(R.color.colorAccent))
                         .show();
             }
         });
@@ -53,8 +95,38 @@ public class MainActivity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
-    }
 
+
+        View headerView = navigationView.getHeaderView(0);
+        textNome = headerView.findViewById(R.id.textNome);
+        textCurso = headerView.findViewById(R.id.textCurso);
+        textMatricula = headerView.findViewById(R.id.textMatricula);
+
+        if(preferences.contains("nome") && !preferences.getString("nome", "").equals("")){
+            textNome.setText(preferences.getString("nome", ""));
+        }else{
+            textNome.setText("Minha UFC");
+        }
+
+        if(preferences.contains("curso") && !preferences.getString("curso", "").equals("")){
+            textCurso.setText(preferences.getString("curso", ""));
+        }else{
+            textCurso.setText("contato@loadingjr.com.br");
+        }
+
+        if(preferences.contains("matricula") && !preferences.getString("matricula", "").equals("")){
+            textMatricula.setText(preferences.getString("matricula", ""));
+        }else{
+            textMatricula.setText("Loading jr.");
+        }
+
+
+    }//fim do onCreate()
+
+
+
+
+    //Definindo ações ao pressionar o botão de voltar do celular
     @Override
     public void onBackPressed() {
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
@@ -65,13 +137,14 @@ public class MainActivity extends AppCompatActivity
         }
     }
 /*
+    //Botão
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
-*/
+
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
@@ -86,7 +159,9 @@ public class MainActivity extends AppCompatActivity
 
         return super.onOptionsItemSelected(item);
     }
+*/
 
+    //Definindo ações dos menus selecionado na barra lateral
     @SuppressWarnings("StatementWithEmptyBody")
     @Override
     public boolean onNavigationItemSelected(MenuItem item) {
@@ -95,42 +170,58 @@ public class MainActivity extends AppCompatActivity
 
         if (id == R.id.nav_sigaa) {
 
-            String url = "https://si3.ufc.br/sigaa/verTelaLogin.do";
+            String url = sigaaUrl;
             abriChromeCustomTabs(url);
 
         } else if (id == R.id.nav_biblioteca) {
 
-            String url = "https://pergamum.ufc.br/pergamum/mobile/index.php";
+            String url = bibliotecaUrl;
             String titulo = "Biblioteca UFC";
             abrirWebView(url, titulo);
 
         } else if (id == R.id.nav_cardapio) {
-
-            String url = "http://www.sobral.ufc.br/ru/cardapio/";
-            String titulo = "Cardapio - UFC Sobral";
+            SharedPreferences preferences = getSharedPreferences(ARQUIVO_PREFERENCIAS, 0);
+            int posicao = preferences.getInt("posicao", 1) - 1;
+            String url = cardapioUrl[posicao];
+            String titulo = "Cardápio RU";
             abrirWebView(url, titulo);
 
         } else if (id == R.id.nav_saldoRu) {
 
-            String url = "https://si3.ufc.br/public/iniciarConsultaSaldo.do";
+            String url = saldoUrl;
             String titulo = "Saldo Cartão do RU";
             abrirWebView(url, titulo);
 
         } else if(id == R.id.nav_provas) {
 
-            String url = "https://drive.google.com/folderview?id=1mLtT2NOUWdsRx4oCT8DaKApznaQG0mQ6";
+            String url = provasUrl;
             String titulo = "Provas Anteriores";
             abrirWebView(url, titulo);
 
         } else if (id == R.id.nav_noticias) {
-
-            String url = "http://www.sobral.ufc.br/";
-            String titulo = "Noticias UFC Sobral";
+            SharedPreferences preferences = getSharedPreferences(ARQUIVO_PREFERENCIAS, 0);
+            int posicao = preferences.getInt("posicao", 1) - 1;
+            String url = noticiasUrl[posicao];
+            String titulo = "Noticias";
             abrirWebView(url, titulo);
 
         }else if(id == R.id.nav_enviarProvas){
-            enviarProvas();
+            startActivity( new Intent(getApplicationContext(), SegundaChamdaActivity.class));
+        }else if (id == R.id.nav_perfil) {
 
+            startActivity( new Intent(getApplicationContext(), PerfilActivity.class));
+
+        }else if(id == R.id.nav_enviarProvas){
+            /*Snackbar.make(,"Enviar provas anteriores?", Snackbar.LENGTH_LONG)
+                    .setAction("Confirmar?", new View.OnClickListener() {
+                        @Override
+                        public void onClick(View v) {*/
+                            enviarProvas();
+            /*            }
+                    })
+                    .setActionTextColor(getResources().getColor(R.color.colorAccent))
+                    .show();
+            */
         } else if(id == R.id.nav_compartilharApp){
 
             Intent i = new Intent(getIntent().ACTION_SEND);
@@ -174,7 +265,7 @@ public class MainActivity extends AppCompatActivity
         if(chromeInstalled()){
             CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
             CustomTabsIntent customTabsIntent = builder.build();
-            builder.setToolbarColor(Color.parseColor("#1f567d"));
+            builder.setToolbarColor(Color.parseColor("#3b4877"));
             builder.setShowTitle(true);
             customTabsIntent.launchUrl(this, Uri.parse(url));
         }else{
@@ -196,27 +287,29 @@ public class MainActivity extends AppCompatActivity
 
     //Função para abrir o SIGAA através de um botão
     public void abrirSigaa(View view){
-        String url = "https://si3.ufc.br/sigaa/verTelaLogin.do";
+        String url = sigaaUrl;
         abriChromeCustomTabs(url);
     }
 
     //Função para abrir o site da Biblioteca da UFC através de um botão
     public void abrirBiblioteca(View view){
-        String url = "https://pergamum.ufc.br/pergamum/mobile/index.php";
+        String url = bibliotecaUrl;
         String titulo = "Biblioteca UFC";
         abrirWebView(url, titulo);
     }
 
     //Função para abrir o site do cardapio do RU da UFC Campus Sobral através de um botão
     public void abrirCardapio(View view){
-        String url = "http://www.sobral.ufc.br/ru/cardapio/";
-        String titulo = "Cardapio - UFC Sobral";
+        SharedPreferences preferences = getSharedPreferences(ARQUIVO_PREFERENCIAS, 0);
+        int posicao = preferences.getInt("posicao", 1) - 1;
+        String url = cardapioUrl[posicao];
+        String titulo = "Cardápio RU";
         abrirWebView(url, titulo);
     }
 
     //Função para abrir o site que mostra o saldo do Cartão do RU para alunos da UFC através de um botão
     public void abrirSaldoRu(View view){
-        String url = "https://si3.ufc.br/public/iniciarConsultaSaldo.do";
+        String url = saldoUrl;
         String titulo = "Saldo Cartão do RU";
         abrirWebView(url, titulo);
     }
@@ -224,7 +317,7 @@ public class MainActivity extends AppCompatActivity
     //Função para abir um site com provas passadas através de um botão
     public void abrirProvas(View view){
 
-        String url = "https://drive.google.com/folderview?id=1mLtT2NOUWdsRx4oCT8DaKApznaQG0mQ6";
+        String url = provasUrl;
         /*
         abriChromeCustomTabs(url);
         */
@@ -235,8 +328,10 @@ public class MainActivity extends AppCompatActivity
 
     //Função para abrir o site de noticias da UFC Sobral através de um botão
     public void abrirNoticias(View view){
-        String url = "http://www.sobral.ufc.br/";
-        String titulo = "Noticias UFC Sobral";
+        SharedPreferences preferences = getSharedPreferences(ARQUIVO_PREFERENCIAS, 0);
+        int posicao = preferences.getInt("posicao", 1) - 1;
+        String url = noticiasUrl[posicao];
+        String titulo = "Noticias";
         abrirWebView(url, titulo);
     }
 
@@ -256,15 +351,16 @@ public class MainActivity extends AppCompatActivity
                         "Semestre (Ex.: 2018.2): "
         );
 
+        //i.setType("message/rfc822");
 
         try {
-            startActivity(Intent.createChooser(i, "Enviar as Provas pelo"));
-            finish();
+            startActivity(Intent.createChooser(i, "Enviar as Provas pelo:"));
             Log.i("Finished sending email.", "");
         }
         catch (android.content.ActivityNotFoundException ex) {
             Toast.makeText(MainActivity.this, "Não há clientes de email instalados!", Toast.LENGTH_SHORT).show();
         }
     }
+
 
 }

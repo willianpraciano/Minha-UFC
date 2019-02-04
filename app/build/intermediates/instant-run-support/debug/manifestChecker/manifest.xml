@@ -33,6 +33,8 @@
         </activity>
         <activity android:name="com.example.willian.sigaaufc.WebViewActivity" />
         <activity android:name="com.example.willian.sigaaufc.SobreActivity" />
+        <activity android:name="com.example.willian.sigaaufc.PerfilActivity" />
+        <activity android:name="com.example.willian.sigaaufc.SegundaChamdaActivity" />
 
         <meta-data
             android:name="android.support.VERSION"

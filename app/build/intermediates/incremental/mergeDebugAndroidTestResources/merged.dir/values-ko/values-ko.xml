@@ -19,6 +19,14 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"공유 대상"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s와(과) 공유"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"접기"</string>
+    <string name="about_contact_us">개발자에게 연락하기</string>
+    <string name="about_facebook">페이스북 좋아요하기</string>
+    <string name="about_github">GitHub 소스보기</string>
+    <string name="about_instagram">인스타그램 팔로우하기</string>
+    <string name="about_play_store">플레이 스토어 평점주기</string>
+    <string name="about_twitter">트위터 팔로우하기</string>
+    <string name="about_website">홈페이지 방문하기</string>
+    <string name="about_youtube">Youtube 동영상 보기</string>
     <string msgid="146198913615257606" name="search_menu_title">"검색"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

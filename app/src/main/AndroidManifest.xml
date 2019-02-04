@@ -24,7 +24,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".WebViewActivity" />
-        <activity android:name=".SobreActivity"></activity>
+        <activity android:name=".SobreActivity" />
+        <activity android:name=".PerfilActivity" />
+        <activity android:name=".SegundaChamdaActivity"></activity>
     </application>
 
 </manifest>

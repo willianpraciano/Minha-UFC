@@ -19,6 +19,14 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"इसके द्वारा साझा करें"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s के साथ साझा करें"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"संक्षिप्त करें"</string>
+    <string name="about_contact_us">संपर्क करें</string>
+    <string name="about_facebook">Facebook पर लाइक करे</string>
+    <string name="about_github">GitHub पर फोर्क करें</string>
+    <string name="about_instagram">Instagram पर फॉलो करें</string>
+    <string name="about_play_store">Play Store पर रेटिंग दें</string>
+    <string name="about_twitter">Twitter पर फॉलो करे</string>
+    <string name="about_website">वेबसाइट देखें</string>
+    <string name="about_youtube">YouTube पर हमें देखें</string>
     <string msgid="146198913615257606" name="search_menu_title">"खोज"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

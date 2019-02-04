@@ -2,6 +2,8 @@ package com.example.willian.sigaaufc;
 
 import android.app.DownloadManager;
 import android.content.Intent;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.net.Uri;
@@ -54,7 +56,8 @@ public class WebViewActivity extends AppCompatActivity{
         //webview.setInitialScale(180);
         webview.getSettings().setUseWideViewPort(true);
         webview.getSettings().setBuiltInZoomControls(true);
-        if(getTitulo().equals("Cardapio - UFC Sobral")){
+
+        if(getTitulo().equals("Cardápio RU")){
 
             if(isNetworkAvailable()) {
                 Toast.makeText(getApplicationContext(), "Página será baixada para vizualização offline", Toast.LENGTH_LONG).show();
@@ -67,6 +70,16 @@ public class WebViewActivity extends AppCompatActivity{
                     //Toast.makeText(getApplicationContext(), "Página foi baixada anteriormente", Toast.LENGTH_LONG).show();
                     webview.getSettings().setCacheMode( WebSettings.LOAD_CACHE_ELSE_NETWORK );
             }
+        } else if(getTitulo().equals("SIGAA")){
+            getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#3b4877")));
+        } else if(getTitulo().equals("Biblioteca UFC")){
+            getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#3b4877")));
+        } else if(getTitulo().equals("Saldo Cartão do RU")){
+            getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#3b4877")));
+        } else if(getTitulo().equals("Provas Anteriores")){
+            getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#3b4877")));
+        } else if(getTitulo().equals("Noticias")){
+            getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#3b4877")));
         }
 
         webview.loadUrl(getUrl());
@@ -119,7 +132,7 @@ public class WebViewActivity extends AppCompatActivity{
                 Toast.makeText(getApplicationContext(), "Baixando Arquivo", Toast.LENGTH_LONG).show();
             }});
 
-    }
+    } //Fim do onCreate()
 
     //Função para obtero o URL passado da MainActivity
     public String getUrl(){

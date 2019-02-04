@@ -4,6 +4,23 @@
             "outputFile": "/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hr/values-hr.xml",
             "map": [
                 {
+                    "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.5.aar/b87b86d303dbb392f2bfa13c3461fec6/res/values-hr/values-hr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,118,187,252,322,397,463,533",
+                        "endColumns": "62,68,64,69,74,65,69,65",
+                        "endOffsets": "113,182,247,317,392,458,528,594"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "2028,2091,2160,2225,2295,2370,2436,2506",
+                        "endColumns": "62,68,64,69,74,65,69,65",
+                        "endOffsets": "2086,2155,2220,2290,2365,2431,2501,2567"
+                    }
+                },
+                {
                     "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/values-hr/values-hr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
@@ -11,6 +28,13 @@
                         "startOffsets": "55,160,268,391,488,598,684,788,907,991,1074,1160,1264,1377,1483,1588,1701,1808,1931,2028,2117",
                         "endColumns": "104,107,122,96,109,85,103,118,83,82,85,103,112,105,104,112,106,122,96,88,100",
                         "endOffsets": "155,263,386,483,593,679,783,902,986,1069,1155,1259,1372,1478,1583,1696,1803,1926,2023,2112,2213"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,488,598,684,788,907,991,1074,1160,1264,1377,1483,1588,1701,1808,1931,2572,2661",
+                        "endColumns": "104,107,122,96,109,85,103,118,83,82,85,103,112,105,104,112,106,122,96,88,100",
+                        "endOffsets": "155,263,386,483,593,679,783,902,986,1069,1155,1259,1372,1478,1583,1696,1803,1926,2023,2656,2757"
                     }
                 }
             ]

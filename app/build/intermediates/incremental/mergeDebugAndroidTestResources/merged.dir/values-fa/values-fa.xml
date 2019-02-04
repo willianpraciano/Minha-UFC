@@ -19,6 +19,14 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"اشتراک‌گذاری با"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏اشتراک‌گذاری با %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"کوچک کردن"</string>
+    <string name="about_contact_us">تماس با ما</string>
+    <string name="about_facebook">ما را در فیسبوک دنبال کنید</string>
+    <string name="about_github">ما را در گیتهاب دنبال کنید</string>
+    <string name="about_instagram">ما را دراینستاگرام دنبال کنید</string>
+    <string name="about_play_store">به ما در گوگل پلی امتیاز بدید</string>
+    <string name="about_twitter">ما را در توییتر دنبال کنید</string>
+    <string name="about_website">وبسایت ما</string>
+    <string name="about_youtube">آخرین ویدیو های ما در یوتیوب</string>
     <string msgid="146198913615257606" name="search_menu_title">"جستجو"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"۹۹۹+"</string>
 </resources>

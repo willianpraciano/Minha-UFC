@@ -2,50 +2,82 @@
 <instant-run
     abi="x86"
     api-level="26"
-    build-mode="COLD"
+    build-mode="FULL"
     density="420dpi"
     format="10"
-    ir-eligibility="COMPATIBLE"
     plugin-version="3.0.1"
-    timestamp="1545940789838"
+    timestamp="1549247430330"
     token="2540393488012334539"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="177" />
+        duration="7504" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="5" />
+        duration="690" />
     <task
         name="verifier"
-        duration="1" />
+        duration="177" />
 
     <artifact
+        location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
         location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/outputs/apk/debug/app-debug.apk"
+        type="SPLIT_MAIN" />
+    <artifact
+        location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
         type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1545940748788"
+        timestamp="1549247430330"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
             location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
+            location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
             location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
             location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
@@ -57,25 +89,16 @@
             location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-        <artifact
             location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
             location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/outputs/apk/debug/app-debug.apk"
             type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1545940789838"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/willian/AndroidStudioProjects/SIGAMobile/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
     </build>
 

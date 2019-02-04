@@ -7,7 +7,7 @@
         <item
             android:id="@+id/nav_sigaa"
             android:icon="@drawable/ic_sigaa_black_24dp"
-            android:title="SIGAA - UFC" />
+            android:title="SIGAA" />
         <item
             android:id="@+id/nav_saldoRu"
             android:icon="@drawable/ic_saldo3_black_24dp"
@@ -15,15 +15,15 @@
         <item
             android:id="@+id/nav_biblioteca"
             android:icon="@drawable/ic_biblioteca_black_24dp"
-            android:title="Biblioteca UFC" />
+            android:title="Biblioteca" />
         <item
             android:id="@+id/nav_noticias"
             android:icon="@drawable/ic_noticias_black_24dp"
-            android:title="Notícias - UFC Sobral" />
+            android:title="Notícias" />
         <item
             android:id="@+id/nav_cardapio"
             android:icon="@drawable/ic_cardapio_black_24dp"
-            android:title="Cardápio - UFC Sobral" />
+            android:title="Cardápio RU" />
         <item
             android:id="@+id/nav_provas"
             android:icon="@drawable/ic_provas2_black_24dp"
@@ -43,13 +43,21 @@
            <item android:title="Informações">
                <menu>
                    <item
+                       android:id="@+id/nav_enviarProvas"
+                       android:icon="@drawable/ic_menu_send"
+                       android:title="Enviar Provas Anteriores" />
+                   <item
+                       android:id="@+id/nav_2Chamada"
+                       android:icon="@drawable/ic_2_chamada_24dp"
+                       android:title="Solicitar 2ª Chamada" />
+                   <item
                        android:id="@+id/nav_compartilharApp"
                        android:icon="@drawable/ic_menu_share"
                        android:title="Compartilhar App" />
                    <item
-                       android:id="@+id/nav_enviarProvas"
-                       android:icon="@drawable/ic_menu_send"
-                       android:title="Enviar provas" />
+                       android:id="@+id/nav_perfil"
+                       android:icon="@drawable/ic_perfil_black_24dp"
+                       android:title="Perfil" />
                    <item
                        android:id="@+id/nav_sobre"
                        android:icon="@drawable/ic_sobre_black_24dp"

@@ -19,6 +19,14 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Condividi con"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Condividi con %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Comprimi"</string>
+    <string name="about_contact_us">Contattaci</string>
+    <string name="about_facebook">Metti mi piace su Facebook</string>
+    <string name="about_github">Contribuisci su GitHub</string>
+    <string name="about_instagram">Seguici su Instagram</string>
+    <string name="about_play_store">Valutaci sul Play Store</string>
+    <string name="about_twitter">Seguici su Twitter</string>
+    <string name="about_website">Visita il nostro sito</string>
+    <string name="about_youtube">Iscriviti al canale Youtube</string>
     <string msgid="146198913615257606" name="search_menu_title">"Ricerca"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

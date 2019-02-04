@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:2:1-30:12
+ADDED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:2:1-32:12
 MERGED from [com.android.support:customtabs:26.1.0] /home/willian/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/baa063e99e56e9bcf756d6aa695869c6/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:design:26.1.0] /home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/AndroidManifest.xml:17:1-31:12
@@ -17,22 +17,23 @@ MERGED from [com.android.support:support-fragment:26.1.0] /home/willian/.gradle/
 MERGED from [com.android.support:support-core-utils:26.1.0] /home/willian/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/4f0c552b82d50e875c8a29af63e04d2e/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:26.1.0] /home/willian/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d1b1d70ea576c97c52fd21b9a88c7943/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /home/willian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9abc95a859a8c5f5afc66618070e9373/AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.medyo:android-about-page:1.2.5] /home/willian/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.5.aar/b87b86d303dbb392f2bfa13c3461fec6/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/willian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/58382b77e46ac61d630b02d7fc6f1599/AndroidManifest.xml:2:1-11:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/willian/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/043de89c645e9bde58a8e92cfa926157/AndroidManifest.xml:17:1-30:12
-INJECTED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:2:1-32:12
 	package
 		ADDED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:3:5-43
 		INJECTED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml
 		INJECTED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml
-		ADDED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:2:1-30:12
+		ADDED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:2:1-32:12
 		INJECTED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml
-		ADDED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:2:1-30:12
+		ADDED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:2:1-32:12
 		INJECTED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:2:11-69
@@ -45,7 +46,7 @@ ADDED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidMa
 	android:name
 		ADDED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:6:22-64
 application
-ADDED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:8:5-28:19
+ADDED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:8:5-30:19
 MERGED from [com.android.support:customtabs:26.1.0] /home/willian/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/baa063e99e56e9bcf756d6aa695869c6/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:customtabs:26.1.0] /home/willian/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/baa063e99e56e9bcf756d6aa695869c6/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:design:26.1.0] /home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/AndroidManifest.xml:25:5-29:19
@@ -113,9 +114,17 @@ ADDED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidMa
 	android:name
 		ADDED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:26:19-50
 activity#com.example.willian.sigaaufc.SobreActivity
-ADDED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:27:9-60
+ADDED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:27:9-51
 	android:name
 		ADDED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:27:19-48
+activity#com.example.willian.sigaaufc.PerfilActivity
+ADDED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:28:9-52
+	android:name
+		ADDED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:28:19-49
+activity#com.example.willian.sigaaufc.SegundaChamdaActivity
+ADDED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:29:9-68
+	android:name
+		ADDED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml:29:19-56
 uses-sdk
 INJECTED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/willian/AndroidStudioProjects/SIGAMobile/app/src/main/AndroidManifest.xml
@@ -146,6 +155,8 @@ MERGED from [com.android.support:support-core-ui:26.1.0] /home/willian/.gradle/c
 MERGED from [com.android.support:support-core-ui:26.1.0] /home/willian/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d1b1d70ea576c97c52fd21b9a88c7943/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.1.0] /home/willian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9abc95a859a8c5f5afc66618070e9373/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.1.0] /home/willian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9abc95a859a8c5f5afc66618070e9373/AndroidManifest.xml:21:5-23:58
+MERGED from [com.github.medyo:android-about-page:1.2.5] /home/willian/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.5.aar/b87b86d303dbb392f2bfa13c3461fec6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.medyo:android-about-page:1.2.5] /home/willian/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.5.aar/b87b86d303dbb392f2bfa13c3461fec6/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/willian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/58382b77e46ac61d630b02d7fc6f1599/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/willian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/58382b77e46ac61d630b02d7fc6f1599/AndroidManifest.xml:5:5-7:41
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/willian/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/043de89c645e9bde58a8e92cfa926157/AndroidManifest.xml:20:5-22:41

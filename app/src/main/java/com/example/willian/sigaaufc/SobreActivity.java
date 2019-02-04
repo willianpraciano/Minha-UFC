@@ -12,6 +12,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+import mehdi.sakout.aboutpage.AboutPage;
+
 public class SobreActivity extends AppCompatActivity {
 
     private Button btn_cliqueAqui;
@@ -19,15 +21,38 @@ public class SobreActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_sobre);
-
+        //setContentView(R.layout.activity_sobre);
+        //btn_cliqueAqui = findViewById(R.id.btn_cliqueAqui);
 
         //Código para fazer o botão voltar, na parte superior, aparecer
         getSupportActionBar().setDisplayHomeAsUpEnabled(true); //Mostrar o botão
         getSupportActionBar().setHomeButtonEnabled(true);      //Ativar o botão
         getSupportActionBar().setTitle("Sobre");//Titulo para ser exibido na sua Action Bar em frente à seta
 
-        btn_cliqueAqui = findViewById(R.id.btn_cliqueAqui);
+
+
+
+        //ADICIONANDO PAGINA SOBRE DE UMA BIBLIOTECA link: https://github.com/medyo/android-about-page
+        String descricao = "Este é um aplicativo que reúne vários links úteis da UFC para facilitar a vida dos estudantes.\n\n " +
+                            "Se tiver dúvidas sobre o projeto ou quiser ajudar futuros estudantes com provas anteriores das suas disiciplinas, entre em contato:";
+
+        View aboutPage = new AboutPage(this)
+                //.isRTL(false)
+                .setImage(R.drawable.capa)
+                .setDescription(descricao)
+                //.addItem(versionElement)
+                //.addItem(adsElement)
+                //.addGroup("Contato")
+                .addEmail("willian.s.praciano@outlook.com", "Nos envie um Email")
+                .addWebsite("http://loadingjr.ufc.br/")
+                .addFacebook("loadingjr", "Curta nossa página no Facebook")
+                .addInstagram("loadingjr", "Siga-nos no Instagram")
+                //.addTwitter("medyo80")
+                //.addYoutube("UCdPQtdWIsg7_pi4mrRu46vA")
+                //.addPlayStore("com.ideashower.readitlater.pro")
+                .addGitHub("willianpraciano/SIGAMobile", "GitHub do projeto - Willian S. Praciano")
+                .create();
+        setContentView(aboutPage);
 
     }
 

@@ -28,5 +28,7 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
-    compile 'com.android.support:customtabs:26.1.0'
+    compile 'com.github.medyo:android-about-page:1.2.5' //Biblioteca da página Sobre
+
+    compile 'com.android.support:customtabs:26.1.0' //Chrome custom tab
 }

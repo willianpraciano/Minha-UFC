@@ -19,6 +19,14 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Ruxsat berish"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%sga ruxsat berish"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Yig‘ish"</string>
+    <string name="about_contact_us">Biz bilan bog\'laning</string>
+    <string name="about_facebook">Facebookda like bosing</string>
+    <string name="about_github">Githubda bizni kuzatib boring</string>
+    <string name="about_instagram">Instagramda bizni kuzatib boring</string>
+    <string name="about_play_store">Play Storeda bizga baho bering</string>
+    <string name="about_twitter">Twitterda bizga obuna bo\'ling</string>
+    <string name="about_website">Veb-sahifamizga tashrif buyuring</string>
+    <string name="about_youtube">Youtubeda bizni tomosha qiling</string>
     <string msgid="146198913615257606" name="search_menu_title">"Qidirish"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>
