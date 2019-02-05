@@ -17,7 +17,115 @@ import android.widget.Toast;
 public class PerfilActivity extends AppCompatActivity {
 
     private static String[] campi = new String[]{"", "Benfica", "Crateús", "LABOMAR", "PICI", "Porangabuçu", "Quixadá", "Russas", "Sobral"};
-    private static String[] cursos = new String[]{"Engenharia da Computação", "Engenharia Elétrica", "Psicologia", "Dontologia", "Medicina"};
+    private static String[] cursos = new String[]{
+            "Administração (Diurno)",
+            "Administração (Noturno)",
+            "Administração Pública",
+            "Agronomia",
+            "Arquitetura e Urbanismo",
+            "Biblioteconomia",
+            "Biotecnologia",
+            "Ciência da Computação",
+            "Ciências Ambientais",
+            "Ciências Atuariais",
+            "Ciências Biológicas",
+            "Ciências Contábeis (Diurno)",
+            "Ciências Contábeis (Noturno)",
+            "Ciências Econômicas",
+            "Ciências Econômicas (Diurno)",
+            "Ciências Econômicas (Noturno)",
+            "Ciências Sociais (Diurno)",
+            "Ciências Sociais (Noturno)",
+            "Cinema e Audiovisual",
+            "Computação",
+            "Comunicação Social",
+            "Comunicação Social - Jornalismo",
+            "Comunicação Social - Jornalismo da Terra",
+            "Comunicação Social - Publicidade e Propaganda",
+            "Dança - Bacharelado",
+            "Dança - Licenciatura",
+            "Design",
+            "Design - Moda",
+            "Design Digital",
+            "Direito (Diurno)",
+            "Direito (Noturno)",
+            "Economia Doméstica",
+            "Economia Ecológica",
+            "Educação Física",
+            "Educação Física - Bacharelado (Diurno)",
+            "Educação Física - Bacharelado (Vespertino-Noturno)",
+            "Educação Física - Licenciatura (Diurno)",
+            "Educação Física - Licenciatura (Vespertino-Noturno)",
+            "Enfermagem",
+            "Engenharia Ambiental",
+            "Engenharia Civil",
+            "Engenharia de Alimentos",
+            "Engenharia de Computação",
+            "Engenharia de Energias E Meio Ambiente",
+            "Engenharia de Energias Renováveis",
+            "Engenharia de Minas",
+            "Engenharia de Pesca",
+            "Engenharia de Petróleo",
+            "Engenharia de Produção",
+            "Engenharia de Produção Mecânica",
+            "Engenharia de Software",
+            "Engenharia de Telecomunicações",
+            "Engenharia de Teleinformatica (Diurno)",
+            "Engenharia de Teleinformática (Noturno)",
+            "Engenharia Elétrica",
+            "Engenharia Mecânica",
+            "Engenharia Metalúrgica",
+            "Engenharia Química",
+            "Estatística",
+            "Estilismo d Moda",
+            "Farmácia",
+            "Filosofia",
+            "Finanças",
+            "Física",
+            "Física - Bacharelado",
+            "Física - Licenciatura",
+            "Fisioterapia",
+            "Gastronomia",
+            "Geografia",
+            "Geologia",
+            "Gestão de Políticas Públicas",
+            "História",
+            "Letras",
+            "Letras - Espanhol",
+            "Letras - Inglês",
+            "Letras - Libras",
+            "Licenciatura Intercultural Indígena Pitakaja",
+            "Magistério Indígena Tremembé Superior",
+            "Matemática",
+            "Matemática - Bacharelado",
+            "Matemática - Licenciatura",
+            "Matemática Industrial",
+            "Medicina",
+            "Música",
+            "Música - Licenciatura",
+            "Oceanografia",
+            "Odontologia",
+            "Pedagogia (Diurno)",
+            "Pedagogia (Noturno)",
+            "Pedagogia Da Terra",
+            "Pedagogia/PARFOR",
+            "Psicologia",
+            "Química",
+            "Química - Bacharelado",
+            "Química - Licenciatura",
+            "Química Industrial",
+            "Redes de Computadores",
+            "Secretariado Executivo",
+            "Sistemas de Informação",
+            "Sistemas e Mídias Digitais (Diurno)",
+            "Sistemas e Mídias Digitais (Noturno)",
+            "Teatro - Licenciatura",
+            "Tecnologia em Gestão da Educação Superior",
+            "Tecnologia em Gestão da Qualidade",
+            "Tecnologia em Gestão de Hospitais Universitários",
+            "Zootecnia"
+
+    };
     private static String[] emails = new String[]{"nadia.menezes@sobral.ufc.br", "michelle@sobral.ufc.br"};
 
     private static final String ARQUIVO_PREFERENCIAS = "ArquivoPreferencias";
@@ -46,12 +154,6 @@ public class PerfilActivity extends AppCompatActivity {
         setContentView(R.layout.activity_perfil);
 
         getSupportActionBar().setTitle("Perfil"); //Difinindo Titulo na ActionBar
-
-        /*
-        //Código para fazer o botão voltar, na parte superior, aparecer
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true); //Mostrar o botão
-        getSupportActionBar().setHomeButtonEnabled(true);      //Ativar o botão
-        */
 
 
         editNome = findViewById(R.id.editNome);
@@ -95,27 +197,13 @@ public class PerfilActivity extends AppCompatActivity {
 
 
         SharedPreferences preferences = getSharedPreferences(ARQUIVO_PREFERENCIAS, 0);
-        if(preferences.contains("nome")){
-            editNome.setText(preferences.getString("nome", ""));
-        }
-        if(preferences.contains("matricula")){
-            editMatricula.setText(preferences.getString("matricula", "0"));
-        }
-        if(preferences.contains("posicao")){
-            spinnerCampus.setSelection( preferences.getInt("posicao", 0) );
-        }
-        if(preferences.contains("curso")){
-            autoCompleteCurso.setText(preferences.getString("curso", ""));
-        }
-        if(preferences.contains("email")){
-            autoComplete2Chamada.setText(preferences.getString("email", ""));
-        }
-        if(preferences.contains("cartaoRU")){
-            editCartaoRU.setText(preferences.getString("cartaoRU", ""));
-        }
-        if(preferences.contains("notificar")){
-            checkCardapio.setChecked(preferences.getBoolean("notificar", false));
-        }
+        editNome.setText(preferences.getString("nome", ""));
+        editMatricula.setText(preferences.getString("matricula", ""));
+        spinnerCampus.setSelection( preferences.getInt("posicao", 0) );
+        autoCompleteCurso.setText(preferences.getString("curso", ""));
+        autoComplete2Chamada.setText(preferences.getString("email", ""));
+        editCartaoRU.setText(preferences.getString("cartaoRU", ""));
+        checkCardapio.setChecked(preferences.getBoolean("notificar", false));
 
 
     }//Fim do onCreate()
@@ -160,19 +248,4 @@ public class PerfilActivity extends AppCompatActivity {
         }
     }
 
-    /*
-    //Código que faz o botão voltar, na parte superior, funcionar
-    @RequiresApi(api = Build.VERSION_CODES.JELLY_BEAN)
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) { //Botão adicional na ToolBar
-        switch (item.getItemId()) {
-            case android.R.id.home:  //ID do seu botão (gerado automaticamente pelo android, usando como está, deve funcionar
-                startActivity(new Intent(this, MainActivity.class));  //O efeito ao ser pressionado do botão (no caso abre a activity)
-                finishAffinity();  //Método para matar a activity e não deixa-lá indexada na pilhagem
-                break;
-            default:break;
-        }
-        return true;
-    }
-    */
 }

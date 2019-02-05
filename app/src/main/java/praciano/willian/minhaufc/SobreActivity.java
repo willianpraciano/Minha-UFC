@@ -16,7 +16,7 @@ import mehdi.sakout.aboutpage.AboutPage;
 
 public class SobreActivity extends AppCompatActivity {
 
-    private Button btn_cliqueAqui;
+    //private Button btn_cliqueAqui;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -33,7 +33,7 @@ public class SobreActivity extends AppCompatActivity {
 
 
         //ADICIONANDO PAGINA SOBRE DE UMA BIBLIOTECA link: https://github.com/medyo/android-about-page
-        String descricao = "A ideia do aplicativo surgiu na disciplina de CTS, ministrada pela professora Rita. Em seguida foi aperfeiçoada pelo time da Loading Jr., Empresa Júnior do Curso de Engenharia de Computação da UFC - Campus Sobral.\n\n " +
+        String descricao = "A ideia do aplicativo surgiu na disciplina de CTS, ministrada pela professora Rita Helena. Em seguida, foi aperfeiçoada pelo time da Loading Jr., Empresa Júnior do Curso de Engenharia de Computação da UFC - Campus Sobral.\n\n " +
                             "Esse App tem como propósito reunir vários links e funcionalidade que os estudantes mais precisam em um lugar só. Esperamos que seja útil ;) .\n\n" +
                             "Se tiver dúvidas sobre o projeto ou quiser ajudar futuros estudantes com provas anteriores das suas disciplinas, entre em contato:";
 
@@ -55,7 +55,7 @@ public class SobreActivity extends AppCompatActivity {
                 .create();
         setContentView(aboutPage);
 
-    }
+    }//fim do onCreate()
 
     //Código que faz o botão voltar, na parte superior, funcionar
     @RequiresApi(api = Build.VERSION_CODES.JELLY_BEAN)

@@ -24,8 +24,6 @@ import android.widget.FrameLayout;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
-import praciano.willian.minhaufc.R;
-
 public class WebViewActivity extends AppCompatActivity{
 
     private WebView webview;
@@ -58,6 +56,8 @@ public class WebViewActivity extends AppCompatActivity{
 
         if(getTitulo().equals("Cardápio RU")){
 
+            //getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#1c557d")));
+
             if(isNetworkAvailable()) {
                 Toast.makeText(getApplicationContext(), "Página será baixada para vizualização offline", Toast.LENGTH_LONG).show();
                 webview.getSettings().setAppCachePath(getApplicationContext().getCacheDir().getAbsolutePath());
@@ -70,20 +70,18 @@ public class WebViewActivity extends AppCompatActivity{
                     webview.getSettings().setCacheMode( WebSettings.LOAD_CACHE_ELSE_NETWORK );
             }
         } else if(getTitulo().equals("SIGAA")){
-            getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#3b4877")));
-        } else if(getTitulo().equals("Biblioteca UFC")){
-            getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#3b4877")));
-        } else if(getTitulo().equals("Saldo Cartão do RU")){
-            getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#3b4877")));
+            //getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#3b4877")));
+        } else if(getTitulo().equals("Biblioteca")){
+            //getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#1c557d")));
+        } else if(getTitulo().equals("Créditos RU")){
+            //getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#c4d2eb")));
         } else if(getTitulo().equals("Provas Anteriores")){
-            getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#3b4877")));
+            //getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#3b4877")));
         } else if(getTitulo().equals("Noticias")){
-            getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#3b4877")));
+            //getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#1c557d")));
         }
 
         webview.loadUrl(getUrl());
-
-
 
 
 

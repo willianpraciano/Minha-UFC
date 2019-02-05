@@ -3801,11 +3801,11 @@ public final class R {
     public static final int nav_biblioteca=0x7f080080;
     public static final int nav_cardapio=0x7f080081;
     public static final int nav_compartilharApp=0x7f080082;
-    public static final int nav_enviarProvas=0x7f080083;
-    public static final int nav_noticias=0x7f080084;
-    public static final int nav_perfil=0x7f080085;
-    public static final int nav_provas=0x7f080086;
-    public static final int nav_saldoRu=0x7f080087;
+    public static final int nav_creditosRu=0x7f080083;
+    public static final int nav_enviarProvas=0x7f080084;
+    public static final int nav_noticias=0x7f080085;
+    public static final int nav_perfil=0x7f080086;
+    public static final int nav_provas=0x7f080087;
     public static final int nav_sigaa=0x7f080088;
     public static final int nav_sobre=0x7f080089;
     public static final int nav_view=0x7f08008a;

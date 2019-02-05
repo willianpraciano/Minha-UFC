@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fillViewport="true"
-    tools:context="com.example.willian.sigaaufc.praciano.example.willian.sigaaufc.PerfilActivity"
+    tools:context="praciano.willian.minhaufc.PerfilActivity"
     tools:layout_editor_absoluteY="81dp">
 
     <LinearLayout
@@ -18,11 +18,13 @@
             android:id="@+id/textView11"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
             android:layout_marginLeft="16dp"
             android:layout_marginRight="16dp"
             android:layout_marginTop="16dp"
-            android:text="Esses dados são opcionais, excerto o Campus que é obrigatório. Os dados ficarão salvos apenas no seu dispositivo e serão utilizados para algumas funcionalidades dessse aplicativo que são úteis a você."
+            android:text="O preenchimento desses dados, com exceção do Campus, são opcionais. Eles ficarão salvos apenas no seu dispositivo e em nenhum outro lugar, e serão utilizados para algumas funcionalidades deste aplicativo úteis a você. \n\n Se desejar, veja o código do aplicativo no GitHub clicando no menu Sobre, depois de salvar seus dados logo abaixo."
             android:textAlignment="center"
+            android:textSize="16sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
@@ -68,7 +70,7 @@
             android:layout_marginRight="16dp"
             android:layout_marginTop="8dp"
             android:completionThreshold="1"
-            android:hint="Engenharia da Computação"
+            android:hint="Engenharia de Computação"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintRight_toRightOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView9" />

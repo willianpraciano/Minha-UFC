@@ -28,9 +28,11 @@ public class MainActivity extends AppCompatActivity
 
     private TextView textNome, textCurso, textMatricula;
 
+    private static String nome, matricula, curso;
+
     private static String sigaaUrl = "https://si3.ufc.br/sigaa/verTelaLogin.do";
     private static String bibliotecaUrl = "https://pergamum.ufc.br/pergamum/mobile/index.php";
-    private static String saldoUrl ="https://si3.ufc.br/public/iniciarConsultaSaldo.do";
+    private static String creditosUrl ="https://si3.ufc.br/public/iniciarConsultaSaldo.do";
     private static String provasUrl = "https://drive.google.com/folderview?id=1mLtT2NOUWdsRx4oCT8DaKApznaQG0mQ6";
     private static String[] cardapioUrl = {
             "http://www.ufc.br/restaurante/cardapio/1-restaurante-universitario-de-fortaleza", //BENFICA
@@ -99,28 +101,34 @@ public class MainActivity extends AppCompatActivity
         navigationView.setNavigationItemSelectedListener(this);
 
 
+        //Definindo nome, curso e matricula no nav_header_main
         View headerView = navigationView.getHeaderView(0);
         textNome = headerView.findViewById(R.id.textNome);
         textCurso = headerView.findViewById(R.id.textCurso);
         textMatricula = headerView.findViewById(R.id.textMatricula);
 
-        if(preferences.contains("nome") && !preferences.getString("nome", "").equals("")){
-            textNome.setText(preferences.getString("nome", ""));
-        }else{
+        nome = preferences.getString("nome", "");
+        curso = preferences.getString("curso", "");
+        matricula = preferences.getString("matricula", "");
+
+        if(nome.equals("")){
             textNome.setText("Minha UFC");
+        }else{
+            textNome.setText(nome);
         }
 
-        if(preferences.contains("curso") && !preferences.getString("curso", "").equals("")){
-            textCurso.setText(preferences.getString("curso", ""));
-        }else{
+        if(curso.equals("")){
             textCurso.setText("contato@loadingjr.com.br");
+        }else{
+            textCurso.setText(curso);
         }
 
-        if(preferences.contains("matricula") && !preferences.getString("matricula", "").equals("")){
-            textMatricula.setText(preferences.getString("matricula", ""));
+        if(matricula.equals("")){
+            textMatricula.setText("Loading Jr.");
         }else{
-            textMatricula.setText("Loading jr.");
+            textMatricula.setText(matricula);
         }
+
 
 
     }//fim do onCreate()
@@ -139,7 +147,7 @@ public class MainActivity extends AppCompatActivity
         }
     }
 /*
-    //Botão
+    //Menus
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
@@ -178,7 +186,7 @@ public class MainActivity extends AppCompatActivity
         } else if (id == R.id.nav_biblioteca) {
 
             String url = bibliotecaUrl;
-            String titulo = "Biblioteca UFC";
+            String titulo = "Biblioteca";
             abrirWebView(url, titulo);
 
         } else if (id == R.id.nav_cardapio) {
@@ -188,10 +196,10 @@ public class MainActivity extends AppCompatActivity
             String titulo = "Cardápio RU";
             abrirWebView(url, titulo);
 
-        } else if (id == R.id.nav_saldoRu) {
+        } else if (id == R.id.nav_creditosRu) {
 
-            String url = saldoUrl;
-            String titulo = "Saldo Cartão do RU";
+            String url = creditosUrl;
+            String titulo = "Créditos RU";
             abrirWebView(url, titulo);
 
         } else if(id == R.id.nav_provas) {
@@ -269,7 +277,7 @@ public class MainActivity extends AppCompatActivity
         if(chromeInstalled()){
             CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
             CustomTabsIntent customTabsIntent = builder.build();
-            builder.setToolbarColor(Color.parseColor("#3b4877"));
+            builder.setToolbarColor(Color.parseColor("#1098e7"));
             builder.setShowTitle(true);
             customTabsIntent.launchUrl(this, Uri.parse(url));
         }else{
@@ -298,7 +306,7 @@ public class MainActivity extends AppCompatActivity
     //Função para abrir o site da Biblioteca da UFC através de um botão
     public void abrirBiblioteca(View view){
         String url = bibliotecaUrl;
-        String titulo = "Biblioteca UFC";
+        String titulo = "Biblioteca";
         abrirWebView(url, titulo);
     }
 
@@ -312,9 +320,9 @@ public class MainActivity extends AppCompatActivity
     }
 
     //Função para abrir o site que mostra o saldo do Cartão do RU para alunos da UFC através de um botão
-    public void abrirSaldoRu(View view){
-        String url = saldoUrl;
-        String titulo = "Saldo Cartão do RU";
+    public void abrirCreditosRU(View view){
+        String url = creditosUrl;
+        String titulo = "Créditos RU";
         abrirWebView(url, titulo);
     }
 
@@ -340,7 +348,7 @@ public class MainActivity extends AppCompatActivity
     }
 
     public void enviarProvas(){
-        String[] destinatario = {"minhaufc.s.praciano@outlook.com"};
+        String[] destinatario = {"willian.s.praciano@outlook.com"};
 
         Intent i = new Intent(getIntent().ACTION_SENDTO);
         i.setData(Uri.parse("mailto:"));

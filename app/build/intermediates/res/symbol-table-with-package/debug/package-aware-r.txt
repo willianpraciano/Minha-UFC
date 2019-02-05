@@ -989,11 +989,11 @@ int id nav_2Chamada 0x7f08007f
 int id nav_biblioteca 0x7f080080
 int id nav_cardapio 0x7f080081
 int id nav_compartilharApp 0x7f080082
-int id nav_enviarProvas 0x7f080083
-int id nav_noticias 0x7f080084
-int id nav_perfil 0x7f080085
-int id nav_provas 0x7f080086
-int id nav_saldoRu 0x7f080087
+int id nav_creditosRu 0x7f080083
+int id nav_enviarProvas 0x7f080084
+int id nav_noticias 0x7f080085
+int id nav_perfil 0x7f080086
+int id nav_provas 0x7f080087
 int id nav_sigaa 0x7f080088
 int id nav_sobre 0x7f080089
 int id nav_view 0x7f08008a

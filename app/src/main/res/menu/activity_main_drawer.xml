@@ -9,9 +9,9 @@
             android:icon="@drawable/ic_sigaa_black_24dp"
             android:title="SIGAA" />
         <item
-            android:id="@+id/nav_saldoRu"
+            android:id="@+id/nav_creditosRu"
             android:icon="@drawable/ic_saldo3_black_24dp"
-            android:title="Saldo Cartão RU" />
+            android:title="Créditos RU" />
         <item
             android:id="@+id/nav_biblioteca"
             android:icon="@drawable/ic_biblioteca_black_24dp"
