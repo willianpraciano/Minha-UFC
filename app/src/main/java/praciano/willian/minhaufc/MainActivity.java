@@ -238,8 +238,8 @@ public class MainActivity extends AppCompatActivity
 
             Intent i = new Intent(getIntent().ACTION_SEND);
             i.setType("text/plain");
-            i.putExtra(getIntent().EXTRA_TEXT,"SIGAM (SIGAA Mobile) é um app que reúne vários links " +
-                    "úteis da UFC. Segue o link para baixar: " + "\n" +
+            i.putExtra(getIntent().EXTRA_TEXT,"Minha UFC é um app que reúne vários links " +
+                    "úteis da UFC. Segue o link para baixar (não é virus, juro): " + "\n" +
                     "https://bit.ly/2QiC5Os" + "\n\n" +
 
                     "Instruções de instalação:" + "\n" +

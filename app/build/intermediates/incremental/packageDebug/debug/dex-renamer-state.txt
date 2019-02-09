@@ -1,4 +1,4 @@
-#Tue Feb 05 15:43:37 BRT 2019
-base.0=/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/transforms/dexMerger/debug/38
+#Sat Feb 09 12:05:36 BRT 2019
+base.0=/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/transforms/dexMerger/debug/57
 path.0=classes.dex
 renamed.0=classes.dex

@@ -85,7 +85,7 @@ public class SegundaChamdaActivity extends AppCompatActivity {
         //Código para fazer o botão voltar, na parte superior, aparecer
         getSupportActionBar().setDisplayHomeAsUpEnabled(true); //Mostrar o botão
         getSupportActionBar().setHomeButtonEnabled(true);      //Ativar o botão
-        getSupportActionBar().setTitle("Sobre");//Titulo para ser exibido na sua Action Bar em frente à seta
+        getSupportActionBar().setTitle("Solicitar 2ª Chamada");//Titulo para ser exibido na sua Action Bar em frente à seta
 
 
     }//fim do onCreate()
