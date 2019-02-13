@@ -140,7 +140,7 @@
         android:paddingBottom="13dp"
         android:paddingLeft="13dp"
         android:paddingRight="13dp"
-        android:text="Noticias"
+        android:text="Notícias"
         android:textColor="@color/about_description_text_color"
         android:textSize="18sp"
         android:textStyle="bold"

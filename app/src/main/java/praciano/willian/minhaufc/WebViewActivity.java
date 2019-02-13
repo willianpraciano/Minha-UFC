@@ -1,7 +1,11 @@
 package praciano.willian.minhaufc;
 
 import android.app.DownloadManager;
+import android.content.ClipData;
+import android.content.ClipboardManager;
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.net.ConnectivityManager;
@@ -30,6 +34,8 @@ public class WebViewActivity extends AppCompatActivity{
     private ProgressBar progressBar;
     private FrameLayout frameLayout;
 
+    private static final String ARQUIVO_PREFERENCIAS = "ArquivoPreferencias";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -54,6 +60,8 @@ public class WebViewActivity extends AppCompatActivity{
         webview.getSettings().setUseWideViewPort(true);
         webview.getSettings().setBuiltInZoomControls(true);
 
+        SharedPreferences preferences = getSharedPreferences(ARQUIVO_PREFERENCIAS, 0);
+
         if(getTitulo().equals("Cardápio RU")){
 
             //getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#1c557d")));
@@ -69,16 +77,40 @@ public class WebViewActivity extends AppCompatActivity{
                     //Toast.makeText(getApplicationContext(), "Página foi baixada anteriormente", Toast.LENGTH_LONG).show();
                     webview.getSettings().setCacheMode( WebSettings.LOAD_CACHE_ELSE_NETWORK );
             }
+
         } else if(getTitulo().equals("SIGAA")){
+
             //getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#3b4877")));
+
         } else if(getTitulo().equals("Biblioteca")){
+
             //getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#1c557d")));
+
         } else if(getTitulo().equals("Créditos RU")){
+
+            android.content.ClipboardManager clipboard = (android.content.ClipboardManager) getSystemService(Context.CLIPBOARD_SERVICE);
+            String cartaoRU = preferences.getString("cartaoRU", "");
+
+            if( !cartaoRU.equals("") ){
+
+                Toast.makeText(getApplicationContext(), "O Nº do seu cartão do RU foi copiado para a área de transferência!", Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "Cole no campo 'Número do Cartão' ", Toast.LENGTH_LONG).show();
+                //clipboard.setText(cartaoRU);
+                android.content.ClipData clip = android.content.ClipData.newPlainText("Nº do Cartão do RU", cartaoRU);
+                clipboard.setPrimaryClip(clip);
+
+            }
             //getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#c4d2eb")));
+
         } else if(getTitulo().equals("Provas Anteriores")){
+
+            Toast.makeText(getApplicationContext(), "Clique em 'Abrir em Uma Nova Janela' para baixar os arquivos", Toast.LENGTH_LONG).show();
             //getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#3b4877")));
-        } else if(getTitulo().equals("Noticias")){
+
+        } else if(getTitulo().equals("Notícias")){
+
             //getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#1c557d")));
+
         }
 
         webview.loadUrl(getUrl());

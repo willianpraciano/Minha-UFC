@@ -1,11 +1,20 @@
-# Aplicativo SIGAAMobile
+# Aplicativo Minha UFC
 
-SIGAMobile (SIGAA Mobile) é um aplicativo que reúne vários links úteis da UFC (Universidade Federal do Ceará) para facilitar a vida dos estudantes. Com ele é possível acessar sites como o SIGAA, a Biblioteca, entre outros. Além disso, também é possível compartilhar provas anteriores das disciplinas dentro do App.
+Minha UFC é um aplicativo que reúne vários links úteis da UFC (Universidade Federal do Ceará) e outras funcionalidades interessantes para facilitar a vida dos estudantes.
 
-[Link para baixar o aplicativo SIGAMobile](https://github.com/willianpraciano/SIGAMobile/blob/master/app/build/outputs/apk/debug/app-debug.apk?raw=true)
+[Link para baixar o Minha UFC](https://github.com/willianpraciano/SIGAMobile/blob/master/app/build/outputs/apk/debug/app-debug.apk?raw=true)
+
+## O que é possível fazer co o aplicativo?
+- Acessar fácilmente o SIGAA;
+- Acessar o site da Biblioteca;
+- Acessar a página de cardápio do RU do seu campus;
+- Conferir os créditos no carão do RU;
+- Acessar o portal de notícias do seu Campus;
+- Compartilhar provas anteriores das suas disciplinas;
+- Solicitar envio de segunda chamada; 
 
 ## Instruções de instalação
-Para a instalação do aplicativo mobile é necessário possuir qualquer smartphone com sistema Android 4.0.3 ou superior e conexão à internet. Em seguida, é preciso baixar o arquivo .apk no link acima e configurar o smartphone para instalação de arquivos de fontes desconhecidas, conforme as instruções abaixo.
+Para a instalação do aplicativo é necessário possuir qualquer smartphone com sistema Android 4.0.3 ou superior e conexão à internet. Em seguida, é preciso baixar o arquivo .apk no link acima e configurar o smartphone para instalação de arquivos de fontes desconhecidas, conforme as instruções abaixo.
 
 1. Em seu celular, abra “Configurações” e clique no item “Segurança”;
 2. Em “Segurança”, marque a opção “Fontes desconhecidas”, para permitir a instalação de aplicativos que não estejam disponíveis na Google Play.
@@ -13,4 +22,6 @@ Para a instalação do aplicativo mobile é necessário possuir qualquer smartph
 3. Baixe o arquivo app-debug.apk no link acima;
 4. Ao concluir o download, execute o arquivo app-debug.apk, em seguida, clique em “Instalar” e aguarde.
 5. Após a instalação, o aplicativo estará disponível junto aos demais.
+
+*Willian S. Praciano
 

@@ -212,7 +212,7 @@ public class MainActivity extends AppCompatActivity
             SharedPreferences preferences = getSharedPreferences(ARQUIVO_PREFERENCIAS, 0);
             int posicao = preferences.getInt("posicao", 1) - 1;
             String url = noticiasUrl[posicao];
-            String titulo = "Noticias";
+            String titulo = "Notícias";
             abrirWebView(url, titulo);
 
         }else if(id == R.id.nav_2Chamada){
@@ -343,7 +343,7 @@ public class MainActivity extends AppCompatActivity
         SharedPreferences preferences = getSharedPreferences(ARQUIVO_PREFERENCIAS, 0);
         int posicao = preferences.getInt("posicao", 1) - 1;
         String url = noticiasUrl[posicao];
-        String titulo = "Noticias";
+        String titulo = "Notícias";
         abrirWebView(url, titulo);
     }
 

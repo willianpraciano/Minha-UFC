@@ -145,7 +145,7 @@
             android:layout_marginRight="16dp"
             android:layout_marginTop="8dp"
             android:ems="10"
-            android:hint="12345678987654321"
+            android:hint="0123456789"
             android:inputType="number"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintRight_toRightOf="parent"
