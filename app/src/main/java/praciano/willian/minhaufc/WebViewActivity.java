@@ -67,7 +67,7 @@ public class WebViewActivity extends AppCompatActivity{
             //getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#1c557d")));
 
             if(isNetworkAvailable()) {
-                Toast.makeText(getApplicationContext(), "Página será baixada para vizualização offline", Toast.LENGTH_LONG).show();
+                Toast.makeText(getApplicationContext(), "Página será baixada para visualização offline", Toast.LENGTH_LONG).show();
                 webview.getSettings().setAppCachePath(getApplicationContext().getCacheDir().getAbsolutePath());
                 webview.getSettings().setAllowFileAccess(true);
                 webview.getSettings().setAppCacheEnabled(true);
