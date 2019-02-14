@@ -4,16 +4,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/fb602e77c262698bbc46418b0b037045/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_diagrama_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_diagrama_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_cardapio2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_cardapio2_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/menu_activity_main_drawer.xml.flat",
@@ -26,10 +18,6 @@
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_biblioteca2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_biblioteca2_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_ic_cardapio_black_24dp.xml.flat",
@@ -60,28 +48,24 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
-        "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_about_icon_facebook.xml.flat",
-        "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.5.aar/b87b86d303dbb392f2bfa13c3461fec6/res/drawable/about_icon_facebook.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_2_chamada_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_2_chamada_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_abc_btn_colored_material.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_about_icon_facebook.xml.flat",
+        "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.5.aar/b87b86d303dbb392f2bfa13c3461fec6/res/drawable/about_icon_facebook.xml"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -108,10 +92,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_sigaa_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_sigaa_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_abc_btn_default_mtrl_shape.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
@@ -130,10 +110,6 @@
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_cardapio_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_cardapio_white_60dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-v21_design_bottom_navigation_item_background.xml.flat",
@@ -156,18 +132,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_provas2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_provas2_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sigaa_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_sigaa_white_60dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_noticias_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_noticias_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
     },
@@ -180,20 +144,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_saldo2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_saldo2_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_diagrama_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_diagrama_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_saldo_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_saldo_white_60dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -202,10 +154,6 @@
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_abc_action_bar_view_list_nav_layout.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_biblioteca_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_biblioteca_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_abc_dialog_title_material.xml.flat",
@@ -244,10 +192,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_provas2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_provas2_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_about_icon_link.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.5.aar/b87b86d303dbb392f2bfa13c3461fec6/res/drawable/about_icon_link.xml"
     },
@@ -264,10 +208,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
@@ -276,16 +216,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_saldo3_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_saldo3_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/color-v23_abc_tint_spinner.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/color-v23/abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_saldo_white_60dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_saldo_white_60dp.xml"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -296,28 +228,12 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/drawable/design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_cardapio_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_cardapio_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_biblioteca_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_biblioteca_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_nav_header_main.xml.flat",
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/layout/nav_header_main.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_sigaa_black_24dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_sigaa_black_24dp.xml"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/anim/abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_enviar_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_enviar_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -332,16 +248,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_biblioteca_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_biblioteca_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_artigos_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_artigos_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -352,28 +260,12 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_artigos_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_artigos_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_saldo3_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_saldo3_white_60dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_diagrama_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_diagrama_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/drawable/ic_launcher_background.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_enviar_black_24dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_enviar_black_24dp.xml"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -420,14 +312,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_sobre_black_24dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_sobre_black_24dp.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_noticias_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_noticias_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_ic_sigaa_black_24dp.xml.flat",
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/drawable/ic_sigaa_black_24dp.xml"
     },
@@ -436,12 +320,12 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
-        "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_ic_enviar_black_24dp.xml.flat",
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/drawable/ic_enviar_black_24dp.xml"
+    },
+    {
+        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_content_main.xml.flat",
@@ -456,16 +340,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_noticias_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_noticias_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/layout/abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_diagrama_white_60dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_diagrama_white_60dp.xml"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -488,24 +364,12 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_sigaa_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_sigaa_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9abc95a859a8c5f5afc66618070e9373/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_sigaa_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_sigaa_white_60dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_provas2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_provas2_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -516,16 +380,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/layout/design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_saldo2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_saldo2_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_ic_biblioteca_black_24dp.xml.flat",
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/drawable/ic_biblioteca_black_24dp.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_sigaa_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_sigaa_white_60dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -536,32 +392,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_2_chamada_24dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_2_chamada_24dp.xml"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/layout/abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_artigos_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_artigos_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_saldo2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_saldo2_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_artigos_white_60dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_artigos_white_60dp.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_provas2_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_provas2_white_60dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_provas2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_provas2_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_thumb_material.xml.flat",
@@ -582,10 +414,6 @@
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9abc95a859a8c5f5afc66618070e9373/res/layout/notification_action.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_saldo_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_saldo_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/anim_abc_shrink_fade_out_from_bottom.xml.flat",
@@ -612,20 +440,12 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable/tooltip_frame_light.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_2_chamada_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_2_chamada_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9abc95a859a8c5f5afc66618070e9373/res/drawable/notification_tile_bg.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_diagrama_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_diagrama_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -636,20 +456,12 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_noticias_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_noticias_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/layout/abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_enviar_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_enviar_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -668,10 +480,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_cardapio2_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_cardapio2_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/color-v23_design_tint_password_toggle.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/color-v23/design_tint_password_toggle.xml"
     },
@@ -688,32 +496,16 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/drawable-xhdpi-v4/design_ic_visibility_off.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_saldo_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_saldo_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_design_snackbar_background.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/drawable/design_snackbar_background.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_enviar_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_enviar_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_saldo_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_saldo_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/layout/abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_perfil_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_perfil_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -724,20 +516,8 @@
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/drawable/ic_artigos_white_60dp.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_cardapio2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_cardapio2_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_sigaa_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_sigaa_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sigaa_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_sigaa_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
@@ -756,32 +536,16 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_biblioteca_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_biblioteca_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout-v26_abc_screen_toolbar.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/layout-v26/abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_saldo3_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_saldo3_white_60dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_saldo3_white_60dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_saldo3_white_60dp.xml"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_biblioteca_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_biblioteca_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -812,24 +576,12 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_cardapio_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_cardapio_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/anim_abc_slide_out_top.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/color_design_error.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/color/design_error.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_provas2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_provas2_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -896,10 +648,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_2_chamada_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_2_chamada_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-v21_ic_menu_share.xml.flat",
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/drawable-v21/ic_menu_share.xml"
     },
@@ -916,10 +664,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_cardapio2_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_cardapio2_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/anim_abc_popup_enter.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/anim/abc_popup_enter.xml"
     },
@@ -932,20 +676,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_biblioteca_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_biblioteca_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_ic_account_circle_black_24dp.xml.flat",
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/drawable/ic_account_circle_black_24dp.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_cardapio_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_cardapio_white_60dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -956,24 +688,12 @@
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/drawable/ic_provas_black_24dp.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_provas2_white_60dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_provas2_white_60dp.xml"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-v21_abc_btn_colored_material.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-v21/abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_biblioteca_white_60dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_biblioteca_white_60dp.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_biblioteca_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_biblioteca_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
@@ -984,20 +704,16 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
-        "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_design_ic_visibility.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/drawable-xhdpi-v4/design_ic_visibility.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_design_navigation_menu.xml.flat",
-        "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/layout/design_navigation_menu.xml"
+        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_cardapio_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_cardapio_white_60dp.png"
+        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_design_navigation_menu.xml.flat",
+        "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/layout/design_navigation_menu.xml"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/color_abc_btn_colored_text_material.xml.flat",
@@ -1040,10 +756,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/layout/design_navigation_item_separator.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_saldo3_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_saldo3_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-v23_abc_control_background_material.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-v23/abc_control_background_material.xml"
     },
@@ -1064,16 +776,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.5.aar/b87b86d303dbb392f2bfa13c3461fec6/res/drawable/about_icon_twitter.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_cardapio_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_cardapio_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_cardapio_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_cardapio_white_60dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -1084,20 +788,12 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
-        "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/anim/abc_slide_in_bottom.xml"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_design_layout_tab_icon.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/layout/design_layout_tab_icon.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_saldo_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_saldo_white_60dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
+        "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/anim/abc_slide_in_bottom.xml"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -1118,10 +814,6 @@
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_light.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/color/abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_cardapio2_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_cardapio2_white_60dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_design_navigation_item_header.xml.flat",
@@ -1148,14 +840,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_cardapio_black_24dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_cardapio_black_24dp.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_noticias_white_60dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_noticias_white_60dp.xml"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9abc95a859a8c5f5afc66618070e9373/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
     },
@@ -1176,10 +860,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9abc95a859a8c5f5afc66618070e9373/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_saldo_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_saldo_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
     },
@@ -1196,16 +876,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9abc95a859a8c5f5afc66618070e9373/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_cardapio_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_cardapio_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_biblioteca_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_biblioteca_white_60dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -1244,18 +916,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_provas2_black_24dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_provas2_black_24dp.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_cardapio2_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_cardapio2_white_60dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_saldo_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_saldo_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable/abc_cab_background_top_material.xml"
     },
@@ -1276,10 +936,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_biblioteca_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_biblioteca_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_navigation_empty_icon.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/drawable/navigation_empty_icon.xml"
     },
@@ -1290,18 +946,6 @@
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_ic_perfil_black_24dp.xml.flat",
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/drawable/ic_perfil_black_24dp.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sigaa_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_sigaa_white_60dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_biblioteca_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_biblioteca_white_60dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_cardapio2_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_cardapio2_white_60dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -1328,20 +972,8 @@
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/drawable/ic_saldo2_black_24dp.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_account_circle_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_account_circle_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_cardapio_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_cardapio_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_account_circle_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_account_circle_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/color_abc_tint_seek_thumb.xml.flat",
@@ -1356,14 +988,6 @@
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/drawable/ic_provas2_black_24dp.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_enviar_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_enviar_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_cardapio2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_cardapio2_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_design_text_input_password_icon.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/layout/design_text_input_password_icon.xml"
     },
@@ -1376,18 +1000,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_saldo3_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_saldo3_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_account_circle_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_account_circle_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
@@ -1396,28 +1008,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_cardapio_white_60dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_cardapio_white_60dp.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_biblioteca2_black_24dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_biblioteca2_black_24dp.xml"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/layout/select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_noticias_black_24dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_noticias_black_24dp.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_2_chamada_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_2_chamada_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_artigos_black_24dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_artigos_black_24dp.xml"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -1426,10 +1018,6 @@
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_saldo3_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_saldo3_white_60dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
@@ -1452,14 +1040,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/layout/design_navigation_item.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_saldo3_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_saldo3_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_provas2_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_provas2_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
@@ -1472,20 +1052,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_saldo_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_saldo_white_60dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_perfil_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_perfil_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_perfil_black_24dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_perfil_black_24dp.xml"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_design_navigation_menu_item.xml.flat",
@@ -1494,10 +1062,6 @@
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-v21_capa.png.flat",
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/drawable-v21/capa.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_saldo2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_saldo2_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_light.xml.flat",
@@ -1516,20 +1080,12 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/layout/abc_screen_content_include.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sigaa_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_sigaa_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_artigos_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_artigos_white_60dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -1548,14 +1104,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_saldo_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_saldo_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_provas_black_24dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_provas_black_24dp.xml"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
@@ -1568,36 +1116,12 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_cardapio_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_cardapio_white_60dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_cardapio_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_cardapio_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_provas2_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_provas2_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout-sw600dp-v13_design_layout_snackbar.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_2_chamada_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_2_chamada_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_provas_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_provas_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9abc95a859a8c5f5afc66618070e9373/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_sigaa_white_60dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_sigaa_white_60dp.xml"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_material.xml.flat",
@@ -1608,20 +1132,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_biblioteca2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_biblioteca2_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_diagrama_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_diagrama_white_60dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
@@ -1652,40 +1164,20 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9abc95a859a8c5f5afc66618070e9373/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_biblioteca_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_biblioteca_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_provas_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_provas_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_ic_provas2_white_60dp.xml.flat",
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/drawable/ic_provas2_white_60dp.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_cardapio2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_cardapio2_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
-        "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/layout/select_dialog_item_material.xml"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_biblioteca2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_biblioteca2_black_24dp.png"
+        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
+        "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/layout/select_dialog_item_material.xml"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_ic_biblioteca_white_60dp.xml.flat",
@@ -1700,16 +1192,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.5.aar/b87b86d303dbb392f2bfa13c3461fec6/res/drawable/about_icon_youtube.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_noticias_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_noticias_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/mipmap-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_saldo3_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_saldo3_white_60dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -1736,24 +1220,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_account_circle_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_account_circle_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_sobre_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_sobre_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sobre_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_sobre_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_dark.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable/abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_sobre_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_sobre_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1782,10 +1250,6 @@
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_abc_ic_voice_search_api_material.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable/abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_noticias_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_noticias_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -1828,10 +1292,6 @@
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/drawable/ic_saldo3_black_24dp.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_provas2_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_provas2_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-v21_abc_edit_text_material.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-v21/abc_edit_text_material.xml"
     },
@@ -1844,16 +1304,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_provas2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_provas2_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/drawable-xxxhdpi-v4/design_ic_visibility.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_saldo_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_saldo_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
@@ -1864,14 +1316,6 @@
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/drawable/ic_sobre_black_24dp.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_provas_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_provas_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_sobre_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_sobre_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-v21_design_password_eye.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/drawable-v21/design_password_eye.xml"
     },
@@ -1880,20 +1324,12 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_provas2_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_provas2_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/layout/abc_action_bar_title_item.xml"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-v21_avd_hide_password.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/drawable-v21/avd_hide_password.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_cardapio2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_cardapio2_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_ic_cardapio_white_60dp.xml.flat",
@@ -1924,10 +1360,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/color-v23/abc_color_highlight_material.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_perfil_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_perfil_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/anim/abc_fade_out.xml"
     },
@@ -1944,24 +1376,12 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.5.aar/b87b86d303dbb392f2bfa13c3461fec6/res/drawable/about_icon_github.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_saldo3_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_saldo3_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/anim_design_bottom_sheet_slide_out.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/anim/design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_ic_diagrama_black_24dp.xml.flat",
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/drawable/ic_diagrama_black_24dp.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_cardapio2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_cardapio2_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_sigaa_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_sigaa_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
@@ -1988,24 +1408,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_provas_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_provas_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_2_chamada_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_2_chamada_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_artigos_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_artigos_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_diagrama_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_diagrama_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_light.xml.flat",
@@ -2014,10 +1418,6 @@
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_biblioteca_black_24dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_biblioteca_black_24dp.xml"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -2032,16 +1432,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_biblioteca_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_biblioteca_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_abc_btn_radio_material.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable/abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_artigos_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_artigos_white_60dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -2054,10 +1446,6 @@
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/layout/abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_provas_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_provas_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_custom_progress.xml.flat",
@@ -2080,16 +1468,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_sobre_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_sobre_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/layout/abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_provas_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_provas_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -2098,14 +1478,6 @@
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_saldo3_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_saldo3_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_saldo3_black_24dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_saldo3_black_24dp.xml"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/color_design_tint_password_toggle.xml.flat",
@@ -2136,10 +1508,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_cardapio_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_cardapio_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
     },
@@ -2150,10 +1518,6 @@
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_activity_sobre.xml.flat",
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/layout/activity_sobre.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_perfil_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_perfil_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_design_navigation_item_subheader.xml.flat",
@@ -2168,20 +1532,12 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_diagrama_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_diagrama_white_60dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_saldo_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_saldo_black_24dp.png"
+        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_abc_dialog_material_background.xml.flat",
+        "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable/abc_dialog_material_background.xml"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/color_abc_search_url_text.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/color/abc_search_url_text.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_abc_dialog_material_background.xml.flat",
-        "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable/abc_dialog_material_background.xml"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_ic_biblioteca2_black_24dp.xml.flat",
@@ -2204,20 +1560,8 @@
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_noticias_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_noticias_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9abc95a859a8c5f5afc66618070e9373/res/layout/notification_template_part_time.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_cardapio2_white_60dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_cardapio2_white_60dp.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_artigos_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_artigos_white_60dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -2260,16 +1604,8 @@
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/drawable-v21/ic_enviar_white_24dp.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_artigos_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_artigos_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_artigos_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_artigos_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
@@ -2300,14 +1636,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/color-v23/abc_tint_edittext.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sobre_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_sobre_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_enviar_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_enviar_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/anim_tooltip_exit.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/anim/tooltip_exit.xml"
     },
@@ -2318,18 +1646,6 @@
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_diagrama_black_24dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_diagrama_black_24dp.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_noticias_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_noticias_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_account_circle_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_account_circle_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_ic_2_chamada_24dp.xml.flat",
@@ -2360,36 +1676,16 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/fb602e77c262698bbc46418b0b037045/res/layout/notification_template_media_custom.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_artigos_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_artigos_white_60dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_saldo3_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_saldo3_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_provas2_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_provas2_white_60dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_perfil_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_perfil_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_design_menu_item_action_area.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/layout/design_menu_item_action_area.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_diagrama_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_diagrama_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_about_icon_instagram.xml.flat",
@@ -2420,10 +1716,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9abc95a859a8c5f5afc66618070e9373/res/drawable/notification_bg_low.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_saldo2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_saldo2_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
@@ -2436,20 +1728,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_sigaa_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_sigaa_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_dark.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable/tooltip_frame_dark.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_sigaa_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_sigaa_white_60dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_noticias_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_noticias_white_60dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -2460,32 +1740,12 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.5.aar/b87b86d303dbb392f2bfa13c3461fec6/res/drawable/about_icon_google_play.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_biblioteca2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_biblioteca2_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_about_icon_email.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/android-about-page-1.2.5.aar/b87b86d303dbb392f2bfa13c3461fec6/res/drawable/about_icon_email.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_saldo_black_24dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_saldo_black_24dp.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_artigos_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_artigos_white_60dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_diagrama_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_diagrama_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_biblioteca2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_biblioteca2_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -2512,10 +1772,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_cardapio2_black_24dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_cardapio2_black_24dp.xml"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
@@ -2532,24 +1788,16 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_out.xml.flat",
-        "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/anim-v21/design_bottom_sheet_slide_out.xml"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_ic_saldo_white_60dp.xml.flat",
         "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/drawable/ic_saldo_white_60dp.xml"
     },
     {
+        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_out.xml.flat",
+        "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/881326d52cf5ab4f2a4477726a856a69/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_account_circle_black_24dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_account_circle_black_24dp.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_biblioteca2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_biblioteca2_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
@@ -2562,10 +1810,6 @@
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_abc_ic_search_api_material.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable/abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_noticias_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_noticias_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/color_abc_tint_btn_checkable.xml.flat",
@@ -2588,14 +1832,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_perfil_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_perfil_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_diagrama_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_diagrama_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9abc95a859a8c5f5afc66618070e9373/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
     },
@@ -2614,14 +1850,6 @@
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_enviar_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-ldpi/ic_enviar_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_saldo_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_saldo_white_60dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -2664,22 +1892,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_account_circle_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_account_circle_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_artigos_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_artigos_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_saldo3_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-hdpi/ic_saldo3_black_24dp.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_saldo2_black_24dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_saldo2_black_24dp.xml"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
     },
@@ -2688,12 +1900,12 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/color-v23/abc_tint_default.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/menu/main.xml"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9abc95a859a8c5f5afc66618070e9373/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/menu/main.xml"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
@@ -2708,16 +1920,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_cardapio2_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_cardapio2_white_60dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/color-v23/abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_noticias_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_noticias_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -2772,16 +1976,12 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9abc95a859a8c5f5afc66618070e9373/res/layout/notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_diagrama_white_60dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_diagrama_white_60dp.png"
+        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_ic_saldo_black_24dp.xml.flat",
+        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/drawable/ic_saldo_black_24dp.xml"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/layout/abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable_ic_saldo_black_24dp.xml.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/src/main/res/drawable/ic_saldo_black_24dp.xml"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -2800,10 +2000,6 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_saldo2_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-mdpi/ic_saldo2_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
@@ -2812,16 +2008,8 @@
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_diagrama_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_diagrama_black_24dp.png"
-    },
-    {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "/home/willian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9cbc0ed9f63c4a72b804c579b9d25619/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
-    },
-    {
-        "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_noticias_black_24dp.png.flat",
-        "source": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_noticias_black_24dp.png"
     },
     {
         "merged": "/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
