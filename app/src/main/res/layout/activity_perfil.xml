@@ -22,7 +22,7 @@
             android:layout_marginLeft="16dp"
             android:layout_marginRight="16dp"
             android:layout_marginTop="16dp"
-            android:text="O preenchimento desses dados, com exceção do Campus, são opcionais. Eles ficarão salvos apenas no seu dispositivo e em nenhum outro lugar, e serão utilizados para algumas funcionalidades deste aplicativo úteis a você. \n\n Se desejar, veja o código do aplicativo no GitHub clicando no menu Sobre, depois de salvar seus dados logo abaixo."
+            android:text="O preenchimento desses dados, com exceção do Campus, é opcional. Eles ficarão salvos apenas no seu dispositivo e em nenhum outro lugar, e serão utilizados para algumas funcionalidades deste aplicativo úteis à você. \n\n Se desejar, veja o código do aplicativo no GitHub clicando no menu Sobre, depois de salvar seus dados logo abaixo."
             android:textAlignment="center"
             android:textSize="16sp"
             app:layout_constraintEnd_toEndOf="parent"
