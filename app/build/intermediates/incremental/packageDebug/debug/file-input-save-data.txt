@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Feb 27 17:48:12 BRT 2019
+0.baseType=DIRECTORY
+0.base=/home/willian/AndroidStudioProjects/MinhaUFC/app/build/intermediates/transforms/dexMerger/debug/19
+0.path=classes.dex
+0.set=DEX
+count=1

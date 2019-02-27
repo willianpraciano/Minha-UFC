@@ -368,11 +368,8 @@ public class MainActivity extends AppCompatActivity
             Intent i = new Intent(getIntent().ACTION_SEND);
             i.setType("text/plain");
             i.putExtra(getIntent().EXTRA_TEXT,"Minha UFC é um app que reúne vários links " +
-                    "úteis da UFC. Segue o link para baixar (não é virus, juro): " + "\n" +
-                    "https://bit.ly/2QiC5Os" + "\n\n" +
-
-                    "Instruções de instalação:" + "\n" +
-                    "https://github.com/willianpraciano/SIGAMobile");
+                    "úteis da UFC. Segue o link para baixar juntamente com instruções de instalação:" + "\n" +
+                    "https://github.com/willianpraciano/Minha-UFC");
             startActivity(i);
 
 

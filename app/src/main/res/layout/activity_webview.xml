@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:layout_above="@id/frameLayout"
-    tools:context="com.example.willian.sigaaufc.praciano.example.willian.sigaaufc.WebViewActivity"
+    tools:context="praciano.willian.minhaufc.WebViewActivity"
     tools:ignore="ExtraText">
 
     <FrameLayout

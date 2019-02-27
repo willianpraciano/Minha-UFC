@@ -2,7 +2,7 @@
 
 Minha UFC é um aplicativo que reúne vários links úteis da UFC (Universidade Federal do Ceará) e outras funcionalidades interessantes para facilitar a vida dos estudantes.
 
-[Link para baixar o Minha UFC](https://github.com/willianpraciano/SIGAMobile/blob/master/app/build/outputs/apk/debug/app-debug.apk?raw=true)
+[Link para baixar o Minha UFC](https://github.com/willianpraciano/Minha-UFC/raw/master/app/build/outputs/apk/debug/app-debug.apk)
 
 ## O que é possível fazer co o aplicativo?
 - Acessar fácilmente o SIGAA;
@@ -14,7 +14,7 @@ Minha UFC é um aplicativo que reúne vários links úteis da UFC (Universidade 
 - Solicitar envio de segunda chamada; 
 
 ## Instruções de instalação
-Para a instalação do aplicativo é necessário possuir qualquer smartphone com sistema Android 4.0.3 ou superior e conexão à internet. Em seguida, é preciso baixar o arquivo .apk no link acima e configurar o smartphone para instalação de arquivos de fontes desconhecidas, conforme as instruções abaixo.
+Para a instalação do aplicativo é necessário possuir qualquer smartphone com sistema Android 5.0 ou superior e conexão à internet. Em seguida, é preciso baixar o arquivo .apk no link acima e configurar o smartphone para instalação de arquivos de fontes desconhecidas, conforme as instruções abaixo.
 
 1. Em seu celular, abra “Configurações” e clique no item “Segurança”;
 2. Em “Segurança”, marque a opção “Fontes desconhecidas”, para permitir a instalação de aplicativos que não estejam disponíveis na Google Play.

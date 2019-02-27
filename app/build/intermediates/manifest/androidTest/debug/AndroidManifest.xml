@@ -3,7 +3,7 @@
     package="praciano.willian.minhaufc.test" >
 
     <uses-sdk
-        android:minSdkVersion="16"
+        android:minSdkVersion="21"
         android:targetSdkVersion="26" />
 
     <instrumentation
